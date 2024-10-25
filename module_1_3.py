@@ -4,5 +4,5 @@ age = 39
 print('Age:', age)
 age = age + 1
 print('New age:', age)
-is_student = 5>3 or 5<3
+is_student = True
 print('Is_student:', is_student)
